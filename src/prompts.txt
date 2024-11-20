@@ -1,0 +1,82 @@
+layout
+	A modern depiction of Radha and Krishna in---. Radha with her golden-white glowing skin, is wearing dress of primary color blue, secondary color pink, dark hair with a small ornate crown and flowers -----.Krishna, with radiant blue skin, with iconic flute and peacock feature wearing  dress of primary color yellow secondary color red,. . They are emanating a divine presence and aura.
+
+some prompts. 
+-----------
+working(with repromt, good for behind pose, )
+A modern  portrayal of Radha and Krishna  exuding divine elegance and romantic connection. 
+Krishna has blue-toned skin,and is holding his iconic flute with a peacock feather in his hair. Radha has a golden-white glow to her skin, with dark black hair, 
+She is a supermodel with world best body proportions proportions of (chest-stomach-hips, 42-24-42). and krishna is a bodybuilder who puts Mr Olympia to shame.
+Both are dressed in a modern way to show off their respective peak figure to another other exposing as much their glowing skin as possible. 
+But it contain divine-ness in that too.
+ Both are adorned with ornaments blending traditional and modern elements which hides their intimate parts.
+The background is a soft, dreamlike, mystical setting with gentle light and natural elements, adding to their divine aura. 
+They have a playful look towards one another. 
+wide view.
+generate image
+--folloup- more intimate
+
+
+generate image 
+----------
+working, refinement(walk, so many, _)
+A modern portrayal of Radha and Krishna walking hand-in-hand from a side view, exuding divine elegance and romantic connection. Krishna has blue-toned skin, stylish pants, a casual shirt, formal shoes, modern glasses, and is holding his iconic flute with a peacock feather in his hair. Radha has a golden-white glow to her skin, with dark black hair, wearing only a semi-transparent low-waisted, single-piece, sheer dress extending from her lower shoulders to her upper thighs, subtly covering intimate areas while revealing her graceful form. She is in very high heels that accentuate her divine presence. Both are adorned with ornaments blending traditional and modern elements. The background is a soft, dreamlike, mystical setting with gentle light and natural elements, adding to their divine aura. Their expressions reflect a deep, soulful connection, enhancing the intimate and romantic feel of the image.
+	
+-----------------------
+
+---------------
+--working too
+very intimate and modern portrayal of Radha and Krishna in a divine, romantic pose. Krishna has blue-toned skin, a muscular physique, and is holding his iconic flute with a peacock feather in his hair. Radha has a golden-white glow, with supermodel proportions, long dark black hair styled modernly, and a gentle, loving expression. Both are adorned in minimalistic yet divine ornaments, showcasing their figures closely intertwined in an affectionate embrace. The background is a mystical, dreamlike setting with flowing rivers, soft clouds, and flowers, softly illuminated to enhance their intimate, ethereal connection.
+generate image
+_------------------------------
+yoga, worked, closeness(not on clothes), try diff for clothes and pose, always same pose.
+A modern depiction of Radha and Krishna in a divine yoga studio, performing an intimate, close couple yoga pose. Krishna, with radiant blue skin, styled hair, and shirtless in modern shorts, holds Radha closely. Radha, in yoga pants and a sports bra, emboidered with classical designs, has a divine, ethereal appearance with soft, graceful features, delicate jewelry, and a gentle glow. Their pose expresses a profound intimacy, with their connection artistically suggested through close body language and touch, embodying their deep, spiritual love. The setting is a serene, mystical yoga studio with soft lighting, decorative plants, and divine symbols enhancing the sacred atmosphere.
+
+--diff yoga, fun one
+A modern, portrayal of Radha and Krishna in a symbolic couple yoga pose, their clothing and positioning to hint at a deep, sensual connection. 
+Krishna, with his iconic peacock feather and blue glow and flute, wearing shorts and vest
+ and Radha, golden white glowing, in modern wireless bralet and tight yoga shorts, engage in a balanced pose that subtly implies something deeper happening between them. The warm, soft lighting adds to the intimate atmosphere, and their gaze conveys closeness, blending spirituality and romance in a visually symbolic pose.
+
+generate image
+
+--------------------------------
+radha single
+A full-body modern portrayal of Radha exuding divine elegance and romantic connection, with a golden-white glow to her skin and long, flowing dark black hair. She has a supermodel physique with perfect proportions (42-24-42), wearing modern semi-transparent attire in a fashion photo-shoot that highlights her glowing skin . Her outfit is adorned with ornaments that blend traditional and modern elements, strategically covering intimate parts. The background is a soft, mystical, dreamlike setting with gentle light, floral, and natural elements, enhancing her divine aura , made perfect for her photo-shoot. Radha has a playful and captivating expression, radiating charm and divinity.
+
+
+testing overt.
+
+together--
+"A  full-body modern portrayal of Radha and Krishna together in an intimate, cozy setting that highlights their divine love and connection. Krishna has a deep blue skin tone, wearing attire that begins at his hips and extends to his knees, adorned with modernized ornaments. Radha has a warm, glowing goldern-whiteskin tone and wears a thin, delicate night gown with Indian-inspired patterns, covering her upper chest to her upper thighs. Both wear minimal, subtle ornaments adapted to a modern style. Their expressions convey deep affection as they stand close together, bathed in a soft, warm glow that enhances their divine presence. The background is softly lit with a few floral elements, creating a serene and romantic atmosphere that emphasizes their closeness "
+its modern interpretation so make clothing choices, clothing style, ornaments ,bold and minimal modern clothing choices. and modern matching with times but have the indian designs in fabrics woven.
+
+generate image
+--rad alone
+
+A full-body modern portrayal of Radha exuding divine elegance and romantic connection, with a golden-white glow to her skin and long, flowing dark black hair. She has a supermodel physique with perfect proportions (42-24-42), wearing modern semi-transparent attire in a fashion photo-shoot that highlights her glowing skin . Her outfit is adorned with ornaments that blend traditional and modern elements, strategically covering intimate parts. The background is a soft, mystical, dreamlike setting with gentle light, floral, and natural elements, enhancing her divine aura , made perfect for her photo-shoot. Radha has a playful and captivating expression, radiating charm and divinity. 
+
+
+--mass
+A modern interpretation of Radha and Krishna in a private setting, both with divine looks and colors—Krishna with blue skin and Radha with a golden-white complexion. They are dressed in contemporary clothing; Krishna wears casual modern attire, while Radha is in comfortable, relaxed clothing like a bralette and shorts. Krishna is giving Radha an Ayurvedic oil massage on her upper back (T5 to C5 area) to ease her muscle aches. The setting is calm and intimate, with soft lighting, conveying a peaceful, supportive atmosphere.
+
+
+----modified goth
+"A modern gothic depiction of Radha and Krishna, set in a moonlit, dark cathedral with intricate stained glass windows and ornate gothic architecture. Radha, with her radiant golden-white glow, wears a flowing, short, semi-transparent asymmetrical black lace skirt and a fitted corset-style top adorned with silver embroidery and subtle metallic accents. Her celestial beauty is emphasized by her loose, dark curls, accessorized with small roses and peacock feathers. She wears elegant high-heeled sandals and silver jewelry with celestial motifs, adding a divine touch to her gothic allure.
+
+Krishna, with his radiant blue skin, dons slim-fit black leather pants and a sleeveless vest featuring intricate embroidery and metallic studs. His tattoos, symbolic of divine art and mythology, are partially visible through his attire. His long, wavy hair cascades freely, accentuating his magnetic charm, while his iconic flute and peacock feather retain their divine essence, the feather now shimmering with a darker, metallic sheen. He wears black boots with subtle silver detailing, and his eyes are highlighted with a soft touch of kohl.
+
+Both figures emanate an enchanting aura of divinity, their love and connection palpable. The gothic setting, combined with their divine glow, creates a striking contrast, blending ancient mythology with modern gothic aesthetics."
+generate image
+
+--one piece
+Reimagine Radha and Krishna as characters inspired by Nami and Luffy from One Piece, while retaining their divine essence and iconic traits. Radha, taking inspiration from Nami, has a radiant golden-white glow and a confident, adventurous look. She wears a flowing, asymmetrical transparent outfit that blends her traditional Indian aesthetic with Nami's modern pirate style. Her attire blue and pink colored,includes a celestial top with lotus and wave motifs, a sarong-style transparent skirt with vibrant oceanic hues, and leather boots suited for sea exploration. She wields krishna's iconic flute, but it doubles as a mystical weapon, resonating with enchanting tunes a mystical serene aura softened by a playful and determined expression. Krishna, channeling Luffy’s carefree spirit, has his radiant blue skin and iconic peacock feather but adopts a bold and adventurous look. He wears an open,yellow and red colored, short pirate jacket adorned with lotus and peacock feather patterns, paired with loose dhoti-inspired shorts. His hat is a reimagined pirate straw hat, has a peacock feather on top, enhanced with a divine glow and subtle embroidery of cosmic patterns. Krishna carries a Sudarshana Chakra, a divine discus, in this finger of one hand and a conch shell that glows with divine energy in another. The two stand on a vibrant, grand, fantastical ship that reflects both their divine origins and the lively, adventurous spirit of One Piece. The grand ship's mast and sails are adorned with symbols of their divinity, such as peacocks, lotuses, and cosmic swirls. The backdrop features a vivid sky blending golden sunlight with swirling clouds, creating an epic and harmonious scene of adventure and divinity. Strictly retain radha's and krishna's skin tone and looks with only inspiration from one piece.
+
+--removing one piece and just as pirates
+A vibrant and adventurous depiction of Radha and Krishna reimagined as pirates while retaining their divine essence and iconic traits. Radha exudes a radiant golden-white glow and has a confident, adventurous look. She wears a flowing, asymmetrical transparent outfit blending her traditional Indian aesthetic with a modern pirate style. Her attire, in blue and pink hues, includes a celestial top adorned with lotus and wave motifs, a sarong-style transparent skirt with vibrant oceanic shades, and leather boots suited for sea exploration. She wields Krishna's iconic flute, reimagined as a mystical weapon, resonating with enchanting tunes and emanating a serene aura. Her expression is playful yet determined. Krishna channels a carefree and bold pirate spirit while retaining his radiant blue skin and iconic peacock feather. He wears an open yellow and red short pirate jacket adorned with lotus and peacock feather patterns, paired with loose dhoti-inspired shorts. His reimagined pirate hat, enhanced with a divine glow and cosmic embroidery, features a peacock feather on top. Krishna holds the Sudarshana Chakra, a divine discus, in one hand and a glowing conch shell in the other, both resonating with divine energy. The two stand on a grand, fantastical ship reflecting both their divine origins and the lively, adventurous spirit of the high seas. The ship's mast and sails are adorned with symbols of their divinity, including peacocks, lotuses, and cosmic swirls. The backdrop features a vivid sky blending golden sunlight with swirling clouds, creating an epic and harmonious scene of adventure and divinity.
+
+
+--cyberpunk stadium
+A Neo-Tokyo anime inspired cyberpunk club featuring Radha and Krishna in a modern, setting.Krishna appears with his characteristic azure-blue skin, now enhanced with bioluminescent patterns that pulse subtly. He wears a sleek, holographic leather jacket in deep yellow with red circuit-like patterns that mirror traditional peacock feather motifs. Underneath is a fitted black graphene mesh shirt. His iconic flute is reimagined as a crystalline instrument with floating holographic musical notes. Traditional Sanskrit verses are etched as glowing nano-tattoos along his arms, and a minimalist crown-like neural interface adorns his forehead, featuring the iconic peacock feather as a holographic projection. Radha radiates with her golden-white skin, complemented by cybernetic jewelry that floats around her like a digital aura. She wears a contemporary ensemble: a structured cobalt-blue top with geometric patterns inspired by traditional Indian designs, paired with flowing transparent black pants featuring subtle pink holographic threading. Her dark hair is styled with an undercut, adorned with a small crystalline crown that projects delicate flower holograms. Sanskrit mantras spiral down her neck as iridescent bio-tattoos. The divine couple is seated together in a massive futuristic stadium, watching a high-octane sports match. The arena is a marvel of cyberpunk architecture, with soaring walls made of transparent, glowing material displaying live holographic commentary and player stats. Neon lights in pink, blue, and purple streak through the air like shooting stars, reflecting on the faces of an electrified crowd. Floating drones buzz around, capturing every angle of the match and projecting it onto vast, curved holographic screens suspended mid-air.Their expressions blending awe and joy as the game unfolds. surrounded by fans wearing cyberpunk-themed attire, cheering and waving holographic banners.
+
+gym/sports
+A serene and luminous modern anime inspired scene of Radha and Krishna working out together in a divine grand celestial gym with each other. Radha, with her characteristic golden-white aura, squatting with a heavy barbell in her back wearing an elegant royal blue workout outfit with pink accents and many embroidered details. Her long dark hair with a small ornate crown, is adorned with jasmine flowers, and is squatting a heavy load alone . Krishna, with his distinctive radiant blue skin, is doing dumbell biceps curls beside her. He wears a rich yellow yoga pants with red accents and a peacock feather crown. The weights and barbell are ornate, crafted from crystal and gold. Soft divine light surrounds them both, creating a warm, ethereal atmosphere. The background features a big divine and modern gym with many equipments all with celestial motifs and artwork. The scene captures both the playful and divine aspects of their relationship in a sophisticated, contemporary style. High-quality, detailed, ethereal lighting, soft elegant colors, photorealistic rendering. The scene is divine, celestial, decorated, and both working out very hard.
